@@ -2,9 +2,18 @@ this is the first line
 this is the second line
 this is the third line
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is the fourth line
 ||||||| 883e05e
 
 =======
 this is the fifth line
 >>>>>>> dev
+this is the sixth line
+this is the 7th line
+this the 8th line
+||||||| parent of e51a4ea... 4th commit
+
+=======
+this is the fourth line
+>>>>>>> e51a4ea... 4th commit
