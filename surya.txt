@@ -7,8 +7,14 @@ this is the fifth line
 this is the sixth line
 this is the 7th line
 this the 8th line
+<<<<<<< HEAD
 ||||||| parent of 95f3ecb... 5th commit
 
 =======
 this is the fifth line
 >>>>>>> 95f3ecb... 5th commit
+||||||| 9bb7211
+=======
+this is 9 th  line 
+this is 10th line
+>>>>>>> dev
