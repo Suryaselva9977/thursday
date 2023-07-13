@@ -1,8 +1,14 @@
 this is the first line
 this is the second line
 this is the third line
+<<<<<<< HEAD
 this is the fourth line
 this is the fifth line
 this is the sixth line
 this is the 7th line
 this the 8th line
+||||||| parent of 95f3ecb... 5th commit
+
+=======
+this is the fifth line
+>>>>>>> 95f3ecb... 5th commit
